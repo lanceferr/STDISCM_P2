@@ -1,0 +1,7 @@
+/build/
+/build-*/
+*.exe
+.vscode/
+.presentation-work/
+Ferrer, Lance_P1_ppt.pdf
+tests/
